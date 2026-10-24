@@ -1,13 +1,13 @@
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🚫 COPYRIGHT & AUTHORSHIP WARNING 🚫
   
-  Developer: @Dev_Null_X (Telegram)
+  Developer: @gokuuuu_1 (Telegram)
   Brand: Node.js India Developers 🇮🇳
-  YouTube: https://www.youtube.com/@Dev_Null_X
+  Telegram: https://t.me/gokuuuuu00
   
   WARNING: Removing or modifying this authorship header is a 
   violation of the developer's rights. This script is protected 
-  under the @Dev_Null_X Open-Source License.
+  under the @gokuuuu_1 Open-Source License.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 */
 
@@ -22,9 +22,9 @@ const port = process.env.PORT || 3000;
 
 // 🔥 CORE PROTECTION: Identity check function
 const _0x_dev_null_identity = () => {
-    const brand = "@Dev_Null_X";
-    if (brand !== "@Dev_Null_X") { 
-        console.error("❌ ILLEGAL MODIFICATION DETECTED: PLEASE RE-DOWNLOAD FROM @Dev_Null_X");
+    const brand = "@gokuuuu_1";
+    if (brand !== "@gokuuuu_1") { 
+        console.error("❌ ILLEGAL MODIFICATION DETECTED: PLEASE RE-DOWNLOAD FROM @gokuuuu_1");
         process.exit(1); 
     }
     return brand;
@@ -242,7 +242,7 @@ async function init() {
                     console.log(`❌ Account ${i+1} leave error: ${e.message}`);
                 }
             }
-            await message.reply({ message: "✅ All accounts have left the Voice Chat! \n🛡️ Powered by @Dev_Null_X" });
+            await message.reply({ message: "✅ All accounts have left the Voice Chat! \n🛡️ Powered by @gokuuuu_1" });
         }
 
 
