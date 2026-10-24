@@ -1,31 +1,31 @@
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⚙️ CONFIGURATION PANEL | @Dev_Null_X SYSTEM
-  🛡️ Author: @Dev_Null_X (Node.js India Developers)
+  ⚙️ CONFIGURATION PANEL | @gokuuuu_1 SYSTEM
+  🛡️ Author: @gokuuuu_1 (Node.js India Developers)
   🚫 Unauthorized distribution is strictly prohibited.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 module.exports = {
     // [⚡] API Credentials (Get from my.telegram.org)
-    apiId: 25461006, 
-    apiHash: "be4d9b5dc42758bccb2087b071738359", 
+    apiId: 34949219, 
+    apiHash: "1624573e96d1101271be743849d93055", 
  
  //apna dalo 👆👆👆API HASH  AND APIID
     // [🤖] Bot Control Settings (@BotFather)
-    botToken: "8790216451:AAHXoH3PSsaP85s59-ff1E", 
+    botToken: "8846889946:AAFqbd7c_--hIwaCHWJIipbdz23MQxsiga8", 
 
     // [👤] Owner Identity (Only this ID can control the bot)
-    adminId: "7967846199", 
+    adminId: "8352693927", 
 
     // [⏳] Safety Settings (Do NOT reduce for account safety)
     joinDelay: 5000, // 5 Seconds gap between account joins
     sessionFile: "./sessions.json",
 
     // [🇮🇳] Brand Attribution
-    developedBy: "@Dev_Null_X",
+    developedBy: "@gokuuuu_1",
     community: "Node.js India Developers"
 };
 
-/* Note by @Dev_Null_X: 
+/* Note by @gokuuuu_1: 
    Join delay ko kam mat karna warna Telegram accounts 
    ko spam samajh kar ban kar sakta hai. 
 */
