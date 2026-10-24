@@ -104,8 +104,8 @@ async function init() {
                          "🔹 `/leavevc [link]` - Leave All VC\n" +
                          "🔹 `/addadmin [ID]` - Add New Admin\n" +
                          "🔹 `/stats` - Check Active Accounts\n\n" +
-                         "🇮🇳 **Developed by @Dev_Null_X**",
-                file: "https://files.catbox.moe/dkxoeu.jpg"
+                         "🇮🇳 **Developed by @gokuuuu_1**",
+                file: "https://kommodo.ai/i/1J4y3AlstjGVQvDbkWkR"
             });
         }
 
